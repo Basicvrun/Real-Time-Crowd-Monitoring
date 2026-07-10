@@ -73,5 +73,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
 
 ## 📞 Contact
-For inquiries, reach out at **varun200430@outlook.com** / **https://www.linkedin.com/in/varun-tiwari-59a832268 **
+For inquiries, reach out at **varun200430@outlook.com** / **https://www.linkedin.com/in/varun-tiwari-59a832268**
 
